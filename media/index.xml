@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediakortti ja lehdistötiedotteet on KyberVPK</title>
+    <link>https://kybervpk.fi/media/</link>
+    <description>Recent content in Mediakortti ja lehdistötiedotteet on KyberVPK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    
+	<atom:link href="https://kybervpk.fi/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lehdistötiedote 19.03.2020</title>
+      <link>https://kybervpk.fi/media/press_release_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kybervpk.fi/media/press_release_1/</guid>
+      <description>COVID-19 synnyttää uusia uhkia – suomalainen eettinen hakkerikollektiivi auttaa terveydenhuollon alan yrityksiä kyberhaasteissa   Pandemian aikana kyberhyökkäyksiä on kohdistunut enenevissä määrin muun muassa terveydenhuollon organisaatioihin. Suomalainen hakkerikollektiivi KyberVPK on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa hyökkäyksiä vastaan ja palautumaan niistä. KyberVPK on vapaaehtoisorganisaatio, joka perustettiin auttamaan terveydenhuollon toimijoita ja muiden kriittisten toimintojen tuottajia kyberuhkien ratkaisemisessa ja ennaltaehkäisemisessä. Apua pyytävän tahon tarpeista riippuen KyberVPK voi auttaa ennaltaehkäisemään tietoturvaongelmia, testata ympäristön turvallisuutta, ratkoa yhdessä tietoturvapoikkeamia tai esimerkiksi auttaa järjestelmien turvallisessa käyttöönotossa.</description>
+    </item>
+    
+  </channel>
+</rss>
