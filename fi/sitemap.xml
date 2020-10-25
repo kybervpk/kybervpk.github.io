@@ -199,6 +199,20 @@
   </url>
   
   <url>
+    <loc>https://kybervpk.fi/releases/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kybervpk.fi/en/releases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://kybervpk.fi/releases/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kybervpk.fi/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -210,6 +224,10 @@
                 hreflang="fi"
                 href="https://kybervpk.fi/faq/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kybervpk.fi/in_media/</loc>
   </url>
   
   <url>
@@ -367,16 +385,16 @@
   </url>
   
   <url>
-    <loc>https://kybervpk.fi/media/press_release_1/</loc>
+    <loc>https://kybervpk.fi/releases/press_release_1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kybervpk.fi/en/media/press_release_1/"
+                href="https://kybervpk.fi/en/releases/press_release_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://kybervpk.fi/media/press_release_1/"
+                href="https://kybervpk.fi/releases/press_release_1/"
                 />
   </url>
   
@@ -391,20 +409,6 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://kybervpk.fi/people/ruotsalainen_marko/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kybervpk.fi/media/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kybervpk.fi/en/media/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://kybervpk.fi/media/"
                 />
   </url>
   

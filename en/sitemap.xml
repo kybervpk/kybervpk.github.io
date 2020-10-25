@@ -199,6 +199,20 @@
   </url>
   
   <url>
+    <loc>https://kybervpk.fi/en/releases/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://kybervpk.fi/releases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kybervpk.fi/en/releases/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kybervpk.fi/en/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -409,30 +423,16 @@
   </url>
   
   <url>
-    <loc>https://kybervpk.fi/en/media/</loc>
+    <loc>https://kybervpk.fi/en/releases/press_release_1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://kybervpk.fi/media/"
+                href="https://kybervpk.fi/releases/press_release_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kybervpk.fi/en/media/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kybervpk.fi/en/media/press_release_1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://kybervpk.fi/media/press_release_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kybervpk.fi/en/media/press_release_1/"
+                href="https://kybervpk.fi/en/releases/press_release_1/"
                 />
   </url>
   

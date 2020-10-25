@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Releases on KyberVPK</title>
+    <link>https://kybervpk.fi/en/releases/</link>
+    <description>Recent content in Releases on KyberVPK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://kybervpk.fi/en/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Press Release 19.03.2020</title>
+      <link>https://kybervpk.fi/en/releases/press_release_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kybervpk.fi/en/releases/press_release_1/</guid>
+      <description>COVID-19 creates new threats - Finnish ethical hacker team helps healthcare companies with cyber challenges During the pandemic, an increasing number of cyber attacks have targeted healthcare organizations and others. The Finnish hacker collective KyberVPK was founded to help providers of critical services in the fight against cyber attacks and in recovering from them. KyberVPK - Community Cyber Response Force is a voluntary organization established to help health care providers and providers of other critical services address and prevent cyber threats.</description>
+    </item>
+    
+  </channel>
+</rss>
