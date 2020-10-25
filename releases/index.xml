@@ -19,5 +19,17 @@
       <description>COVID-19 synnyttää uusia uhkia – suomalainen eettinen hakkerikollektiivi auttaa terveydenhuollon alan yrityksiä kyberhaasteissa   Pandemian aikana kyberhyökkäyksiä on kohdistunut enenevissä määrin muun muassa terveydenhuollon organisaatioihin. Suomalainen hakkerikollektiivi KyberVPK on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa hyökkäyksiä vastaan ja palautumaan niistä. KyberVPK on vapaaehtoisorganisaatio, joka perustettiin auttamaan terveydenhuollon toimijoita ja muiden kriittisten toimintojen tuottajia kyberuhkien ratkaisemisessa ja ennaltaehkäisemisessä. Apua pyytävän tahon tarpeista riippuen KyberVPK voi auttaa ennaltaehkäisemään tietoturvaongelmia, testata ympäristön turvallisuutta, ratkoa yhdessä tietoturvapoikkeamia tai esimerkiksi auttaa järjestelmien turvallisessa käyttöönotossa.</description>
     </item>
     
+    <item>
+      <title>Muistilista tietovuodon kohteille</title>
+      <link>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</guid>
+      <description>Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Mikäli olet ollut Vastaamon asiakkaana ennen vuotta 2019, ovat tietosi voineet joutua vääriin käsiin.
+Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018.
+Vastaamon antamia tietoja voit seurata heidän verkkosivuiltaan.
+Oletettuja vuodettuja tietoja ovat:  Etunimi ja sukunimi Osoite (katuosoite, postinumero, kaupunki, maa) Henkilötunnus Puhelinnumero Sähköpostiosoite Tapaamisissa kirjoitetut muistiinpanot eli potilaskertomukset  Kaikki ylläolevat tiedot luokitellaan henkilötiedoiksi. On hyvä huomioida, että välttämättä juuri sinusta ei ole vuotanut kaikkia yllä mainittuja tietoja.</description>
+    </item>
+    
   </channel>
 </rss>
