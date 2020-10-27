@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://kybervpk.fi/</loc>
+    <lastmod>2020-10-27T15:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -200,6 +201,7 @@
   
   <url>
     <loc>https://kybervpk.fi/releases/</loc>
+    <lastmod>2020-10-27T15:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -241,6 +243,26 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://kybervpk.fi/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</loc>
+    <lastmod>2020-10-27T15:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kybervpk.fi/releases/press_release_1/</loc>
+    <lastmod>2020-03-19T10:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kybervpk.fi/en/releases/press_release_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://kybervpk.fi/releases/press_release_1/"
                 />
   </url>
   
@@ -382,24 +404,6 @@
                 hreflang="fi"
                 href="https://kybervpk.fi/people/vallittu_karo/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://kybervpk.fi/releases/press_release_1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kybervpk.fi/en/releases/press_release_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://kybervpk.fi/releases/press_release_1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</loc>
   </url>
   
   <url>

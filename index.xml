@@ -6,6 +6,7 @@
     <description>Recent content in Etusivu on KyberVPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
+    <lastBuildDate>Sun, 25 Oct 2020 21:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://kybervpk.fi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -161,6 +162,25 @@ Muuta:
     </item>
     
     <item>
+      <title>Muistilista tietovuodon kohteille</title>
+      <link>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</link>
+      <pubDate>Sun, 25 Oct 2020 21:00:00 +0300</pubDate>
+      
+      <guid>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</guid>
+      <description>Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 26.10.2020.
+Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana. Vastaamon tiedossa ei ole, että tässä yhteydessä tietokanta olisi varastettu, mutta on mahdollista, että yksittäisiä tietoja on tarkasteltu tai kopioitu tuossa aikavälissä.</description>
+    </item>
+    
+    <item>
+      <title>Lehdistötiedote 19.03.2020</title>
+      <link>https://kybervpk.fi/releases/press_release_1/</link>
+      <pubDate>Thu, 19 Mar 2020 10:00:00 +0300</pubDate>
+      
+      <guid>https://kybervpk.fi/releases/press_release_1/</guid>
+      <description>COVID-19 synnyttää uusia uhkia – suomalainen eettinen hakkerikollektiivi auttaa terveydenhuollon alan yrityksiä kyberhaasteissa   Pandemian aikana kyberhyökkäyksiä on kohdistunut enenevissä määrin muun muassa terveydenhuollon organisaatioihin. Suomalainen hakkerikollektiivi KyberVPK on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa hyökkäyksiä vastaan ja palautumaan niistä. KyberVPK on vapaaehtoisorganisaatio, joka perustettiin auttamaan terveydenhuollon toimijoita ja muiden kriittisten toimintojen tuottajia kyberuhkien ratkaisemisessa ja ennaltaehkäisemisessä. Apua pyytävän tahon tarpeista riippuen KyberVPK voi auttaa ennaltaehkäisemään tietoturvaongelmia, testata ympäristön turvallisuutta, ratkoa yhdessä tietoturvapoikkeamia tai esimerkiksi auttaa järjestelmien turvallisessa käyttöönotossa.</description>
+    </item>
+    
+    <item>
       <title>Antti Laatikainen</title>
       <link>https://kybervpk.fi/people/laatikainen_antti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -269,25 +289,6 @@ Muuta:
  Turvallisuusjohtaminen Turvallinen ohjelmistokehitys Teollisuus- ja automaatiojärjestelmien turvallisuus Liikenne- ja merenkulkujärjestelmien turvallisuus  Päivätyö: Head of Security, Awake.ai
 Muuta:
  Kurssijohtaja, Maanpuolustuskoulutusyhdistys ry (MPK ry)  </description>
-    </item>
-    
-    <item>
-      <title>Lehdistötiedote 19.03.2020</title>
-      <link>https://kybervpk.fi/releases/press_release_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kybervpk.fi/releases/press_release_1/</guid>
-      <description>COVID-19 synnyttää uusia uhkia – suomalainen eettinen hakkerikollektiivi auttaa terveydenhuollon alan yrityksiä kyberhaasteissa   Pandemian aikana kyberhyökkäyksiä on kohdistunut enenevissä määrin muun muassa terveydenhuollon organisaatioihin. Suomalainen hakkerikollektiivi KyberVPK on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa hyökkäyksiä vastaan ja palautumaan niistä. KyberVPK on vapaaehtoisorganisaatio, joka perustettiin auttamaan terveydenhuollon toimijoita ja muiden kriittisten toimintojen tuottajia kyberuhkien ratkaisemisessa ja ennaltaehkäisemisessä. Apua pyytävän tahon tarpeista riippuen KyberVPK voi auttaa ennaltaehkäisemään tietoturvaongelmia, testata ympäristön turvallisuutta, ratkoa yhdessä tietoturvapoikkeamia tai esimerkiksi auttaa järjestelmien turvallisessa käyttöönotossa.</description>
-    </item>
-    
-    <item>
-      <title>Muistilista tietovuodon kohteille</title>
-      <link>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/</guid>
-      <description>Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 26.10.2020.
-Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana. Vastaamon tiedossa ei ole, että tässä yhteydessä tietokanta olisi varastettu, mutta on mahdollista, että yksittäisiä tietoja on tarkasteltu tai kopioitu tuossa aikavälissä.</description>
     </item>
     
     <item>

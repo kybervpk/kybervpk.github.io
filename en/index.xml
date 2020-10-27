@@ -6,6 +6,7 @@
     <description>Recent content in Front page on KyberVPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Oct 2020 21:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://kybervpk.fi/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -161,6 +162,26 @@ Other:
     </item>
     
     <item>
+      <title>Checklist for the victims of a data breach</title>
+      <link>https://kybervpk.fi/en/releases/checklist-for-victims-of-a-data-breach/</link>
+      <pubDate>Sun, 25 Oct 2020 21:00:00 +0300</pubDate>
+      
+      <guid>https://kybervpk.fi/en/releases/checklist-for-victims-of-a-data-breach/</guid>
+      <description>(This is a translation of this Finnish KyberVPK article, 26th October, 2020)
+We collected a comprehensive list of notes especially for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen.
+Based on current knowledge, Vastaamo&amp;rsquo;s client registry was breached in November 2018 and there has been a second smaller breach in 2019 before March 2019.</description>
+    </item>
+    
+    <item>
+      <title>Press Release 19.03.2020</title>
+      <link>https://kybervpk.fi/en/releases/press_release_1/</link>
+      <pubDate>Thu, 19 Mar 2020 10:00:00 +0300</pubDate>
+      
+      <guid>https://kybervpk.fi/en/releases/press_release_1/</guid>
+      <description>COVID-19 creates new threats - Finnish ethical hacker team helps healthcare companies with cyber challenges During the pandemic, an increasing number of cyber attacks have targeted healthcare organizations and others. The Finnish hacker collective KyberVPK was founded to help providers of critical services in the fight against cyber attacks and in recovering from them. KyberVPK - Community Cyber Response Force is a voluntary organization established to help health care providers and providers of other critical services address and prevent cyber threats.</description>
+    </item>
+    
+    <item>
       <title>Antti Laatikainen</title>
       <link>https://kybervpk.fi/en/people/laatikainen_antti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -183,17 +204,6 @@ Other:
  Penetration testing Web app security Programming, software design / architecture  Day job: CISO at Solita
 Other:
  Co-founder / organiser of TammerSec Hacker @ Team ROT, Co-founder of Rotco Oy  </description>
-    </item>
-    
-    <item>
-      <title>Checklist for the victims of a data breach</title>
-      <link>https://kybervpk.fi/en/releases/checklist-for-victims-of-a-data-breach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kybervpk.fi/en/releases/checklist-for-victims-of-a-data-breach/</guid>
-      <description>(This is a translation of this Finnish KyberVPK article, 26th October, 2020)
-We collected a comprehensive list of notes especially for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen.
-Based on current knowledge, Vastaamo&amp;rsquo;s client registry was breached in November 2018 and there has been a second smaller breach in 2019 before March 2019.</description>
     </item>
     
     <item>
@@ -305,15 +315,6 @@ Other:
  Email systems, spam Abuse desk operations Linux  Day job: It specialist at CSC, Funet CERT and email administrator
 Other:
  Helsinki Hacklab board Finnish skeptics board  </description>
-    </item>
-    
-    <item>
-      <title>Press Release 19.03.2020</title>
-      <link>https://kybervpk.fi/en/releases/press_release_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kybervpk.fi/en/releases/press_release_1/</guid>
-      <description>COVID-19 creates new threats - Finnish ethical hacker team helps healthcare companies with cyber challenges During the pandemic, an increasing number of cyber attacks have targeted healthcare organizations and others. The Finnish hacker collective KyberVPK was founded to help providers of critical services in the fight against cyber attacks and in recovering from them. KyberVPK - Community Cyber Response Force is a voluntary organization established to help health care providers and providers of other critical services address and prevent cyber threats.</description>
     </item>
     
     <item>

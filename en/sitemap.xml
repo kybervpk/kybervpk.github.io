@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://kybervpk.fi/en/</loc>
+    <lastmod>2020-10-27T15:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -200,6 +201,7 @@
   
   <url>
     <loc>https://kybervpk.fi/en/releases/</loc>
+    <lastmod>2020-10-27T15:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -237,6 +239,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://kybervpk.fi/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kybervpk.fi/en/releases/checklist-for-victims-of-a-data-breach/</loc>
+    <lastmod>2020-10-27T15:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kybervpk.fi/en/releases/press_release_1/</loc>
+    <lastmod>2020-03-19T10:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://kybervpk.fi/releases/press_release_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kybervpk.fi/en/releases/press_release_1/"
                 />
   </url>
   
@@ -280,10 +302,6 @@
                 hreflang="en"
                 href="https://kybervpk.fi/en/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://kybervpk.fi/en/releases/checklist-for-victims-of-a-data-breach/</loc>
   </url>
   
   <url>
@@ -409,20 +427,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://kybervpk.fi/en/people/makela_otto/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kybervpk.fi/en/releases/press_release_1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://kybervpk.fi/releases/press_release_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kybervpk.fi/en/releases/press_release_1/"
                 />
   </url>
   
