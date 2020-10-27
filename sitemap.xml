@@ -9,6 +9,11 @@
 	</sitemap>
 	
 	<sitemap>
+	   	<loc>https://kybervpk.fi/sv/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>https://kybervpk.fi/en/sitemap.xml</loc>
 		
 	   	<lastmod>2020-10-27T22:35:00+03:00</lastmod>

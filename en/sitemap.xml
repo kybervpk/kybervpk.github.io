@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://kybervpk.fi/en/"
                 />
@@ -209,6 +214,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/releases/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://kybervpk.fi/en/releases/"
                 />
@@ -234,6 +244,11 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://kybervpk.fi/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -296,6 +311,11 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://kybervpk.fi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -436,6 +456,11 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://kybervpk.fi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/tags/"
                 />
     <xhtml:link
                 rel="alternate"

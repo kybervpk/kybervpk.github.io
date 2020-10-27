@@ -7,6 +7,11 @@
     <lastmod>2020-10-27T22:34:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://kybervpk.fi/en/"
                 />
@@ -204,6 +209,11 @@
     <lastmod>2020-10-27T22:34:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/releases/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://kybervpk.fi/en/releases/"
                 />
@@ -234,6 +244,11 @@
   
   <url>
     <loc>https://kybervpk.fi/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/contact/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -296,6 +311,11 @@
   
   <url>
     <loc>https://kybervpk.fi/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -436,6 +456,11 @@
   
   <url>
     <loc>https://kybervpk.fi/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://kybervpk.fi/sv/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
