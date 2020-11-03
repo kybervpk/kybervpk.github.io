@@ -6,9 +6,20 @@
     <description>Recent content in Framsida on KyberVPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-fi</language>
+    <lastBuildDate>Sun, 25 Oct 2020 21:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://kybervpk.fi/sv/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minneslista till offer för dataläckage</title>
+      <link>https://kybervpk.fi/sv/releases/minneslista-till-offer-for-datalackage/</link>
+      <pubDate>Sun, 25 Oct 2020 21:00:00 +0300</pubDate>
+      
+      <guid>https://kybervpk.fi/sv/releases/minneslista-till-offer-for-datalackage/</guid>
+      <description>Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Minneslistan har uppdaterats 03.11.2020.
+Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vastaamos kundregister. Som en följd av dataintrånget har konfidentiella uppgifter om kunder läckt från tiden före november 2018. Det är sannolikt att Vastaamos datasystem har infiltrerats också mellan slutet av november 2018 och mars 2019. Vastaamo vet inte om att databasen skulle ha blivit stulen i samband med detta senare intrång.</description>
+    </item>
     
   </channel>
 </rss>

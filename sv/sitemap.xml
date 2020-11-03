@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://kybervpk.fi/sv/</loc>
+    <lastmod>2020-11-03T23:45:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -23,6 +24,7 @@
   
   <url>
     <loc>https://kybervpk.fi/sv/releases/</loc>
+    <lastmod>2020-11-03T23:45:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -57,6 +59,11 @@
                 hreflang="sv"
                 href="https://kybervpk.fi/sv/contact/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kybervpk.fi/sv/releases/minneslista-till-offer-for-datalackage/</loc>
+    <lastmod>2020-11-03T23:45:00+03:00</lastmod>
   </url>
   
   <url>
