@@ -18,7 +18,7 @@
       
       <guid>https://kybervpk.fi/people/kaivola_taneli/</guid>
       <description>Erityisosaaminen:
- Digital Forensics &amp;amp; Incident Response (DFIR) Tietoturvapoikkeamien selvitystyön koordinointi Penetraatiotestaus Ohjelmistokehitys  Päivätyö: Senior Security Specialist, Nixu Corporation
+ Digital Forensics &amp;amp; Incident Response (DFIR) Tietoturvapoikkeamien selvitystyön koordinointi Penetraatiotestaus Ohjelmistokehitys  Päivätyö: Chief Specialist, Traficomin Kyberturvallisuuskeskus
 Muuta:
  Perustajajäsen ja aktivisti, Helsinki Hacklab  </description>
     </item>
@@ -55,9 +55,9 @@ Muuta:
       
       <guid>https://kybervpk.fi/people/jauhiainen_juho/</guid>
       <description>Erityisosaaminen:
- Digitaalinen forensiikka ja tietoturvapoikkemien hallitseminen (eng. DFIR) Haittaohjelma-analyysi Tietoturvapoikkeamahallinnan johtaminen Windows &amp;amp; Linux  Päivätyö: Senior DFIR Consultant, Nixu Corporation
+ Digitaalinen forensiikka ja tietoturvapoikkemien hallitseminen (eng. DFIR) Haittaohjelma-analyysi Tietoturvapoikkeamahallinnan johtaminen Windows &amp;amp; Linux  Päivätyö: Information Security Specialist, Traficomin Kybertuvallisuuskeskus
 Muuta:
- Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry) Puheenjohtaja ja perustaja, HelSec Ry  Sertifikaatit:
+ Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry) Puheenjohtaja ja perustaja, HelSec Ry Turvakäräjät Podcast Host  Sertifikaatit:
  CISSP GMON GCFA GREM OSCP  </description>
     </item>
     
@@ -68,7 +68,8 @@ Muuta:
       
       <guid>https://kybervpk.fi/people/kankaala_laura/</guid>
       <description>Erityisosaaminen:
- DFIR Pilvipalvelut WebAppien tietoturva  Muuta:
+ DFIR Pilvipalvelut WebAppien tietoturva  Päivätyö: Security Consultant, F-Secure
+Muuta:
  Disobey hallituksen jäsen Podcaster  </description>
     </item>
     
@@ -116,7 +117,7 @@ Muuta:
       
       <guid>https://kybervpk.fi/people/raty_markus_jaron/</guid>
       <description>Erityisosaaminen:
- Verkot ja järjestelmäarkkitehtuuri Linux Pääsynhallinta- ja valvontajärjestelmät Tilannejohtaminen ja kommunikointi Ihmisten kanssa toimiminen ja tilanteiden purkaminen  Päivätyö: Systems Specialist NOC/SOC, University of the Arts, Helsinki
+ Verkot ja järjestelmäarkkitehtuuri Linux Pääsynhallinta- ja valvontajärjestelmät Tilannejohtaminen ja kommunikointi Ihmisten kanssa toimiminen ja tilanteiden purkaminen  Päivätyö: Information Security Specialist, Traficomin Kyberturvallisuuskeskus
 Osa-aikainen: Consulting ICT Specialist and Network Admin, Lomakotiyhdistys Ilonpisara
 Muuta:
  shadowHelSec perustaja ja järjestäjä Perustajajäsen ja aktivisti, Helsinki Hacklab Perustajajäsen ja toinen vetäjä EventMediaCrew Pitkäaikainen vapaaehtoisjärjestäjä lukuisissa tapahtumissa  </description>
@@ -142,7 +143,7 @@ Muuta:
       
       <guid>https://kybervpk.fi/people/rossi_antti/</guid>
       <description>Erityisosaaminen:
- Ohjelmistokehitys Verkko-ohelmistojen tietoturva Tietoturvatestaus Linux-palvelinympäristöt Verkot ja järjestelmäarkkitehtuuri Pilvipalvelut (GCP, AWS, DigitalOcean, jne)  Päivätyö: CTO, Jobilla
+ Ohjelmistokehitys Verkko-ohelmistojen tietoturva Tietoturvatestaus Linux-palvelinympäristöt Verkot ja järjestelmäarkkitehtuuri Pilvipalvelut (GCP, AWS, DigitalOcean, jne)  Päivätyö: Security Specialist (DFIR), Nixu Corporation
 Muuta:
  Aktiivinen jäsen yhdistyksessä HelSec Ry HTB Helsinki Meetup -ryhmän perustaja ja ylläpitäjä Kiertävä riippumaton luennoitsija ja kouluttaja, aiheena verkko-ohjelmistojen tietoturvatestaus  Sertifikaatit:
  OSCP CISSP  </description>

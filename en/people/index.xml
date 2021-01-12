@@ -17,7 +17,7 @@
       
       <guid>https://kybervpk.fi/en/people/kaivola_taneli/</guid>
       <description>Key competencies:
- Digital Forensics &amp;amp; Incident Response (DFIR) Incident Response coordination Penetration testing Software development  Day job: Senior Security Specialist at Nixu Corporation
+ Digital Forensics &amp;amp; Incident Response (DFIR) Incident Response coordination Penetration testing Software development  Day job: Chief Specialist, Traficom&amp;rsquo;s National Cyber Security Centre Finland
 Other:
  Member and activist of Helsinki Hacklab  </description>
     </item>
@@ -54,9 +54,9 @@ Other:
       
       <guid>https://kybervpk.fi/en/people/jauhiainen_juho/</guid>
       <description>Key competencies:
- Digital Forensics &amp;amp; Incident Response (DFIR) Malware analysis Incident management / Major incident management Windows &amp;amp; Linux  Day job: Senior DFIR Consultant at Nixu Corporation
+ Digital Forensics &amp;amp; Incident Response (DFIR) Malware analysis Incident management / Major incident management Windows &amp;amp; Linux  Day job: Information Security Specialist, Traficom&amp;rsquo;s National Cyber Security Centre Finland
 Other:
- Forensic instructor at The National Defence Training Association of Finland (MPK Ry) Co-Founder, chairman at HelSec Ry  Certifications:
+ Forensic Instructor at The National Defence Training Association of Finland (MPK Ry) Co-Founder, chairman at HelSec Ry Turvakäräjät Podcast Host  Certifications:
  CISSP GMON GCFA GREM OSCP  </description>
     </item>
     
@@ -67,7 +67,8 @@ Other:
       
       <guid>https://kybervpk.fi/en/people/kankaala_laura/</guid>
       <description>Key competencies:
- DFIR Cloud WebApp security  Other:
+ DFIR Cloud WebApp security  Day job: Security Consultant, F-Secure
+Other:
  Disobey board member Podcaster  </description>
     </item>
     
@@ -115,7 +116,7 @@ Other:
       
       <guid>https://kybervpk.fi/en/people/raty_markus_jaron/</guid>
       <description>Key competencies:
- Network infrastructure Access control systems Crisis Management and communication Dealing with humans and de-escalation  Day job: Systems Specialist NOC/SOC at University of the Arts, Helsinki
+ Network infrastructure Access control systems Crisis Management and communication Dealing with humans and de-escalation  Day job: Information Security Specialist, Traficom&amp;rsquo;s National Cyber Security Centre Finland
 Part time: Consulting ICT Specialist and Network Admin at Lomakotiyhdistys Ilonpisara
 Other:
  shadowHelSec founder and organizer Founding member and activist at Helsinki Hacklab Founding member and second lead at EventMediaCrew Long-time volunteer organizer at various events  </description>
@@ -141,7 +142,7 @@ Other:
       
       <guid>https://kybervpk.fi/en/people/rossi_antti/</guid>
       <description>Key competencies:
- Software development Web application security Penetration testing Linux servers Networks and systems architecture Public cloud (GCP, AWS, Digitalocean, etc)  Day job: CTO at Jobilla
+ Software development Web application security Penetration testing Linux servers Networks and systems architecture Public cloud (GCP, AWS, Digitalocean, etc)  Day job: Security Specialist (DFIR), Nixu Corporation
 Other:
  Member and activist of HelSec Ry Organiser of HTB Helsinki Meetup Group Workshop instructor and software conference speaker, penetration testing web applications  Certifications:
  OSCP CISSP  </description>
