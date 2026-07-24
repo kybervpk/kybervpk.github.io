@@ -155,9 +155,9 @@ Muuta:
       
       <guid>https://kybervpk.fi/people/hoikkala_joona/</guid>
       <description>Erityisosaaminen:
- Systems &amp;amp; software architecture System administration and networks Code review Penetration testing Secure software development Securing and breaking AI systems  Päivätyö: Head of Security Testing, Visma
+ Systems &amp;amp; software architecture System administration and networks Code review Penetration testing Secure software development  Päivätyö: Software engineering contractor
 Muuta:
- Aktiivinen avoimen lähdekoodin kehittäjä, mukana mm: Certbot, acme-dns, ffuf Luo aktiivisesti sisältöjä tietoturvayhteisön käyttöön luentojen ja workshopien muodossa.  Certifications:
+ TurkuSec Ry hallituksen jäsen Aktiivinen avoimen lähdekoodin kehittäjä, mukana mm: Certbot, acme-dns, ffuf Luo aktiivisesti sisältöjä tietoturvayhteisön käyttöön luentojen ja workshopien muodossa.  Certifications:
  OSCP  </description>
     </item>
     
@@ -328,7 +328,7 @@ Sertifikaatit:
       
       <guid>https://kybervpk.fi/people/koski_tomi/</guid>
       <description>Erityisosaaminen:
- Penetraatiotestaus Web, Mobile, IoT OSINT  Päivätyö: Red Team Engineer, Visma &amp;amp; CEO of RiverScape Security Oy</description>
+ Penetraatiotestaus Web, Mobile, IoT OSINT  Päivätyö: Senior Security Specialist, Nixu Corporation</description>
     </item>
     
   </channel>
